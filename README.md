@@ -6,10 +6,6 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" width="400" />
 </div>
  
-
-
-<br>
-
 ---
 
 ### ABOUT ME :
@@ -64,7 +60,6 @@
   <a href="https://twitter.com/tazmeen_afroz">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   
-    <h3> Contributions Graph : </h3>
   
   </a>   ![snake gif](https://github.com/TazmeenAfroz/TazmeenAfroz/blob/output/github-contribution-grid-snake.gif)
   
