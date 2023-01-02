@@ -6,9 +6,6 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" width="400" />
 </div>
  
-<div>
-  <img src="https://komarev.com/ghpvc/?username=TazmeenAfroz&style=flat-square&color=blue" alt="" width="100"/>
-</div>
 
 
 <br>
