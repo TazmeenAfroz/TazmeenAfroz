@@ -43,6 +43,7 @@
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TazmeenAfroz&theme=dark&background=#1fd1f9)](https://git.io/streak-stats)
 <b>Github Streaks 🔥</b>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TazmeenAfroz&theme=black-ice&hide_border=true&stroke=1fd1f9&background=0D1117&ring=1fd1f9&fire=1fd1f9&currStreakLabel=1fd1f9&bg_color=90,1fd1f9,b621fe&title_color=1fd1f9&text_color=1fd1f9" alt="TazmeenAfroz" /></p>
