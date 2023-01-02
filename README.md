@@ -59,7 +59,6 @@ Studying Artificial Intelligence <img src="https://media.giphy.com/media/WUlplcM
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     
   </a>
-  ![Snake animation](https://github.com/TazmeenAfroz/TazmeenAfroz/blob/output/github-contribution-grid-snake.svg)
- 
+  
 
 </div>
