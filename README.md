@@ -50,13 +50,9 @@
 ---
 
 <b>tazmeen's Github Stats</b>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TazmeenAfroz&theme=dark&background=#FFFFFF)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github-readme-stats.vercel.app/api?username=TazmeenAfrozcount_private=true&show_icons=true&theme=chartreuse-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-<a href="https://github.com/m0rp43us">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
 
 
 <div id="badges">
