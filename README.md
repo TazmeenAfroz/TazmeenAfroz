@@ -4,14 +4,17 @@
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=TazmeenAfroz&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hey there
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  
-<h2> My Name is Tazmeen Afroz.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KushalTanna24.KushalTanna24">
 
-</h2>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+My+Name+is+TAZMEEN AFROZ!;&center=true&size=30">
+  </a>
+</h1>
+
+<br>
+  
+
 
 </div>
 <div align="center">
