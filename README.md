@@ -42,19 +42,12 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>  
-
-  
-  
-
-<img src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&show_icons=true&count_private=true&hide_border=true"/>
-
-
 <br/> 
 
   
 
 ### :fire: My Stats :
-
+<img src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&show_icons=true&count_private=true&hide_border=true"/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TazmeenAfroz)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
