@@ -47,10 +47,10 @@
   
 
 ### :fire: My Stats :
-<img src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&show_icons=true&count_private=true&hide_border=true"/>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TazmeenAfroz)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&show_icons=true&count_private=true&hide_border=true"/>
 <div id="badges">
 <h1> Contact me on </h1>
   <a href="https://www.linkedin.com/in/tazmeen-afroz/">
