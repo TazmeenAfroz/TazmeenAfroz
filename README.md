@@ -44,10 +44,21 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TazmeenAfroz)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&show_icons=true&count_private=true&hide_border=true"/>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m0rp43us&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="m0rp43us" /></p>
+
 ---
+
+<b>tazmeen's Github Stats</b>
+
+<a href="https://github-readme-stats.vercel.app/api?username=TazmeenAfrozcount_private=true&show_icons=true&theme=chartreuse-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/m0rp43us">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+
+
 <div id="badges">
 <h2> Contact me on : </h2> 
   <a href="https://www.linkedin.com/in/tazmeen-afroz/">
