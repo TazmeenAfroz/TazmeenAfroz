@@ -3,6 +3,8 @@
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <br>
+  ![Profile views counter](https://komarev.com/ghpvc/?username=TazmeenAfroz&&style=flat-square)
+  <br>
   <img src="https://rishavanand.github.io/static/images/greetings.gif" width="400" />
 </div>
  
