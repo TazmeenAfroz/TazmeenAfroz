@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 10" />
 </div>  
 <div>
   <img src="https://komarev.com/ghpvc/?username=TazmeenAfroz&style=flat-square&color=blue" alt=""/>
