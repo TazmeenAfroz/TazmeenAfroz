@@ -49,7 +49,7 @@
 
 ---
 
-<b>zawster's Github Stats</b>
+<b>TAZMEEN's Github Stats</b>
 
 <a href="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&count_private=true&show_icons=true&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
