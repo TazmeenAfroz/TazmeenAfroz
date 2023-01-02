@@ -17,8 +17,7 @@
   
 
 - *🌱 I’m currently learning different programming languages and web development.*  
-  
-
+ 
 - *📕 In my free time, I solve problems and read tech articles.😛*  
   
 
@@ -27,7 +26,7 @@
 
 <br/>  
 ---
-## My Skill Set  
+### :My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -41,16 +40,7 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>  
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- 
- 
-</div>
+
 ---
 
 ### :fire: My Stats :
