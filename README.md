@@ -4,7 +4,7 @@
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=TazmeenAfroz&style=flat-square&color=blue" alt=""/>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KushalTanna24.KushalTanna24">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TazmeenAfroz">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -12,11 +12,11 @@
   </a>
 </h1>
 
-<br>
   
 
 
 </div>
+<br>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
