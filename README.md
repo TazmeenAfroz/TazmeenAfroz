@@ -4,13 +4,12 @@
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=TazmeenAfroz&style=flat-square&color=blue" alt=""/>
-
+</div>
+<div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
   
-
-
 </div>
 <br>
 <div align="center">
