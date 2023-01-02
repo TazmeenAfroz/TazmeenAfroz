@@ -28,7 +28,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set  :
 
 
 <div align="center">  
@@ -52,7 +52,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&show_icons=true&count_private=true&hide_border=true"/>
 <div id="badges">
-<h1> Contact me on </h1>
+<h2> Contact me on : </h2> 
   <a href="https://www.linkedin.com/in/tazmeen-afroz/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
