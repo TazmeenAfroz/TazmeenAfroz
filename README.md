@@ -54,7 +54,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&count_private=true&show_icons=true&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&bg_color=90,1fd1f9,b621fe&title_color=fff&text_color=fff" />
 </a>
-<br>
+
+---
 <a href="https://github.com/TazmeenAfroz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&bg_color=90,1fd1f9,b621fe&title_color=fff&text_color=fff" />
 </a>
