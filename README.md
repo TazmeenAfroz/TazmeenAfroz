@@ -60,4 +60,4 @@ Studying Artificial Intelligence <img src="https://media.giphy.com/media/WUlplcM
     
   </a>
 </div>
-![Snake animation](https://github.com/TazmeenAfroz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/TazmeenAfroz/TazmeenAfroz/blob/output/github-contribution-grid-snake.svg)
