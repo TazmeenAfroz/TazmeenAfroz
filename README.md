@@ -19,11 +19,11 @@
   
 
 - *⚡ Fun fact: I use tabs over spaces***  
-  ![Profile views counter](https://komarev.com/ghpvc/?username=TazmeenAfroz&&style=flat-square)  
+    
  
 ---
 <br/>  
-
+![Profile views counter](https://komarev.com/ghpvc/?username=TazmeenAfroz&&style=flat-square)
 
 ## My Skill Set  :
 
