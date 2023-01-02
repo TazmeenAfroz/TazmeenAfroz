@@ -51,6 +51,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TazmeenAfroz)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&show_icons=true&count_private=true&hide_border=true"/>
+---
 <div id="badges">
 <h2> Contact me on : </h2> 
   <a href="https://www.linkedin.com/in/tazmeen-afroz/">
@@ -62,6 +63,8 @@
   </a>
   <a href="https://twitter.com/tazmeen_afroz">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    ---
+    ### :Contributions graph:
     
   </a>   ![snake gif](https://github.com/TazmeenAfroz/TazmeenAfroz/blob/output/github-contribution-grid-snake.gif)
   
