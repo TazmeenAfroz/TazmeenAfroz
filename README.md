@@ -58,7 +58,6 @@ Studying Artificial Intelligence <img src="https://media.giphy.com/media/WUlplcM
   <a href="https://twitter.com/tazmeen_afroz">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     
-  </a> 
-
+  </a>   ![snake gif](https://github.com/TazmeenAfroz/TazmeenAfroz/blob/output/github-contribution-grid-snake.gif)
+  
 </div>
-  ![snake gif](https://github.com/TazmeenAfroz/TazmeenAfroz/blob/output/github-contribution-grid-snake.gif)
