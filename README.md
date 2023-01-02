@@ -7,7 +7,7 @@
 </div>
  
 <div>
-  <img src="https://komarev.com/ghpvc/?username=TazmeenAfroz&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=TazmeenAfroz&style=flat-square&color=blue" alt="" width="100"/>
 </div>
 
 
