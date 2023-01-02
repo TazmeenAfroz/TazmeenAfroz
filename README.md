@@ -9,20 +9,23 @@
 
 
 <br>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
-</div>
+
 ---
 
 ### :woman_technologist: About Me :
-Studying Artificial Intelligence <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Fast Nuces.
+## <div align="center">I'm Tazmeen Afroz, a Student of ARTIFICIAL INTELLIGENCE 🤖 at FAST NUCES</div>  
+  
 
+- *🌱 I’m currently learning different programming languages and web development.*  
+  
 
-- :seedling: Learning different programming languages and web development.
+- *📕 In my free time, I solve problems and read tech articles.😛*  
+  
 
-- :zap: In my free time, I solve problems and read tech articles.
+- *⚡ Fun fact: I use tabs over spaces***  
+  
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tazmeen-afroz/)
+<br/>  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
