@@ -18,7 +18,7 @@
 - *📕 In my free time, I solve problems and read tech articles.😛*  
   
 
-- *⚡ Fun fact: I use tabs “I am rarely bored alone; I am often bored in groups and crowds.” ~ Laurie Helgoe***  
+- *⚡ Fun fact:“I am rarely bored alone; I am often bored in groups and crowds.” ~ Laurie Helgoe*  
     
  
 ---
