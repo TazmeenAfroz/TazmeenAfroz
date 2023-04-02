@@ -82,28 +82,22 @@
 
  ## Contact me on :
 
-<div id="badges" align="center">
-  <div class="badge linkedin">
-    <a href="https://www.linkedin.com/in/tazmeen-afroz/">
-      <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <div class="badge gmail">
-    <a href="mailto:tazmeenafroz@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
-    </a>
-  </div>
-  <div class="badge instagram">
-    <a href="https://www.instagram.com/tazmeen_afroz/">
-      <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=pink" alt="Instagram Badge"/>
-    </a>
-  </div>
-  <div class="badge twitter">
-    <a href="https://twitter.com/tazmeen_afroz">
-      <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
-    </a>
-  </div>
-</div>
+<a href="https://www.linkedin.com/in/tazmeen-afroz/" style="display: inline-block; background-image: linear-gradient(to right, #ff7b00, #ff3f7c); border-radius: 50%; width: 40px; height: 40px; padding: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border-radius: 50%; width: 100%; height: 100%;">
+</a>
+
+<a href="mailto:tazmeenafroz@gmail.com" style="display: inline-block; background-image: linear-gradient(to right, #ff7b00, #ff3f7c); border-radius: 50%; width: 40px; height: 40px; padding: 10px;">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius: 50%; width: 100%; height: 100%;">
+</a>
+
+<a href="https://www.instagram.com/tazmeen_afroz/" style="display: inline-block; background-image: linear-gradient(to right, #f300d1, #cf45e5); border-radius: 50%; width: 40px; height: 40px; padding: 10px;">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagran Badge" style="border-radius: 50%; width: 100%; height: 100%;">
+</a>
+
+<a href="https://twitter.com/tazmeen_afroz" style="display: inline-block; background-image: linear-gradient(to right, #00c7ff, #1d8aff); border-radius: 50%; width: 40px; height: 40px; padding: 10px;">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="border-radius: 50%; width: 100%; height: 100%;">
+</a>
+
 
 
 
