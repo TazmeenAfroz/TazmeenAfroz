@@ -61,9 +61,11 @@
 
 ---
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=TazmeenAfroz&style=flat-square&color=1fd1f9&label=Profile%20views%20counter" alt="Profile Views Counter" />
+  <hr style="width: 100%; margin: 10px 0px; border-top: 1px solid #1fd1f9;" />
 </div>
+
 
 
 
