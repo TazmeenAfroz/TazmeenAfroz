@@ -10,10 +10,13 @@
 
 ### ABOUT ME :
 <head>
-  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
-</head><div align="center">
-  
-  <h2 style="font-family: 'Roboto', sans-serif; font-weight: bold;">I'm Tazmeen Afroz, a Student of ARTIFICIAL INTELLIGENCE 🤖 at FAST NUCES</h2>
+  <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+</head>
+
+<div align="center">
+  <h2 style="font-family: 'Oswald', sans-serif; font-weight: bold;">I'm Tazmeen Afroz, a Student of ARTIFICIAL INTELLIGENCE 🤖 at FAST NUCES</h2>
+</div>
+
 </div>
 
   
