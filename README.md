@@ -52,14 +52,14 @@
 <a href="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&count_private=true&show_icons=true&theme=chartreuse-dark">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&bg_color=90,1fd1f9,b621fe&title_color=fff&text_color=fff" />
 </a>
-
+---
 
 <a href="https://github.com/TazmeenAfroz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&bg_color=90,1fd1f9,b621fe&title_color=fff&text_color=fff&layout=compact" />
 </a>
-<br>
+
 ---
-<br>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TazmeenAfroz&style=flat-square&color=1fd1f9&label=Profile%20views%20counter" alt="Profile Views Counter" />
 </div>
