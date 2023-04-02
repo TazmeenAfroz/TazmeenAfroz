@@ -65,10 +65,8 @@
   <img src="https://komarev.com/ghpvc/?username=TazmeenAfroz&style=flat-square&color=1fd1f9&label=Profile%20views%20counter" alt="Profile Views Counter" />
 </div>
 
----
 
-![Profile views counter](https://komarev.com/ghpvc/?username=TazmeenAfroz&&style=flat-square)
----
+
 
 
 
