@@ -81,20 +81,72 @@
 <br>
 
  ## Contact me on :
+<style>
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+  }
+  
+  .linkedin {
+    background-color: #0077B5;
+  }
+  
+  .gmail {
+    background-color: #EA4335;
+  }
+  
+  .instagram {
+    background-color: #E1306C;
+  }
+  
+  .twitter {
+    background-color: #1DA1F2;
+  }
+  
+  .badge a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+  }
+  
+  .badge img {
+    max-width: 60%;
+    max-height: 60%;
+    object-fit: contain;
+  }
+</style>
+
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/tazmeen-afroz/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border-radius: 50%; background-color: #0077B5;"/>
-  </a>
-  <a href="mailto:tazmeenafroz@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" style="border-radius: 50%; background-color: #EA4335;"/>
-  </a>
-  <a href="https://www.instagram.com/tazmeen_afroz/">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" style="border-radius: 50%; background-color: #E1306C;"/>
-  </a>
-  <a href="https://twitter.com/tazmeen_afroz">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="border-radius: 50%; background-color: #1DA1F2;"/>
-  </a>
+  <div class="badge linkedin">
+    <a href="https://www.linkedin.com/in/tazmeen-afroz/">
+      <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <div class="badge gmail">
+    <a href="mailto:tazmeenafroz@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
+    </a>
+  </div>
+  <div class="badge instagram">
+    <a href="https://www.instagram.com/tazmeen_afroz/">
+      <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=pink" alt="Instagram Badge"/>
+    </a>
+  </div>
+  <div class="badge twitter">
+    <a href="https://twitter.com/tazmeen_afroz">
+      <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
+    </a>
+  </div>
 </div>
+
 
 
 <div>
