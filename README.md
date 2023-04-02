@@ -67,6 +67,7 @@
 
 
 <div id="badges" align="center">
+  <br>
 <h2> Contact me on : </h2> 
   <a href="https://www.linkedin.com/in/tazmeen-afroz/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
