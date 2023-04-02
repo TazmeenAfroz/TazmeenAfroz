@@ -66,8 +66,7 @@
 
 
 
-
-<div id="badges">
+<div id="badges" align="center">
 <h2> Contact me on : </h2> 
   <a href="https://www.linkedin.com/in/tazmeen-afroz/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -78,10 +77,9 @@
   </a>
   <a href="https://twitter.com/tazmeen_afroz">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  
-  
-  </a> 
+   </a> 
 
+  <hr style="width: 100%; margin: 10px 0px; border-top: 1px solid #1fd1f9;" />
   ![snake gif](https://github.com/TazmeenAfroz/TazmeenAfroz/blob/output/github-contribution-grid-snake.gif)
   
 </div>
