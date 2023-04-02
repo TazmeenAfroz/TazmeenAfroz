@@ -57,7 +57,8 @@
 
 
 <a href="https://github.com/TazmeenAfroz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&bg_color=90,1fd1f9,b621fe&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&bg_color=90,1fd1f9,b621fe&title_color=fff&text_color=fff&layout=compact" />
+</a>
 </a>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=TazmeenAfroz&&style=flat-square)
