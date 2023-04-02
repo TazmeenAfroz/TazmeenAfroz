@@ -9,7 +9,13 @@
 ---
 
 ### ABOUT ME :
-## <div align="center">I'm Tazmeen Afroz, a Student of ARTIFICIAL INTELLIGENCE 🤖 at FAST NUCES</div>  
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+</head><div align="center">
+  
+  <h2 style="font-family: 'Roboto', sans-serif; font-weight: bold;">I'm Tazmeen Afroz, a Student of ARTIFICIAL INTELLIGENCE 🤖 at FAST NUCES</h2>
+</div>
+
   
 
 - *🌱 I’m currently learning different programming languages and web development.*  
