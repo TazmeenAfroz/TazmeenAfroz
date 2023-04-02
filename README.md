@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="(https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)" width="100"/>
   <br>
  
   <img src="https://rishavanand.github.io/static/images/greetings.gif" width="400" />
@@ -87,7 +87,7 @@
 </div>
 
 <div>
-  <h2>Watch my github contribution get eaten by a snake </h2>
+  <h2>Watch my github contribution get eaten by a snake 🐍 </h2>
   
   ![snake gif](https://github.com/TazmeenAfroz/TazmeenAfroz/blob/output/github-contribution-grid-snake.gif)
   
