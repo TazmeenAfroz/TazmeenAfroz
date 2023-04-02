@@ -46,11 +46,11 @@
 
 ---
 ## :fire: My Stats :
-
+<br>
 <b>Github Streaks 🔥</b>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TazmeenAfroz&theme=black-ice&hide_border=true&stroke=1fd1f9&background=0D1117&ring=1fd1f9&fire=1fd1f9&currStreakLabel=1fd1f9&bg_color=90,1fd1f9,b621fe&title_color=fff&text_color=fff" alt="TazmeenAfroz" /></p>
-<br>
+
 
 <b>TAZMEEN's Github Stats</b>
 
@@ -65,7 +65,7 @@
 <br/> 
 
 
-<br>
+
 
 <div id="badges">
 <h2> Contact me on : </h2> 
