@@ -14,7 +14,7 @@
 </head>
 
 <div align="center">
-  <h2 style="font-family: 'Oswald', sans-serif;font-weight: bold; font-style: italic;">I'm Tazmeen Afroz, a Student of BS-AI 🤖 at FAST NUCES</h2>
+  <h2 style="font-family: 'Oswald', sans-serif; font-weight: bold; font-style: italic ;">I'm Tazmeen Afroz, a student of BS-AI 🤖 at FAST NUCES</h2>
 </div>
 
 
