@@ -81,48 +81,6 @@
 <br>
 
  ## Contact me on :
-<style>
-  .badge {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 100px;
-    height: 100px;
-    margin: 10px;
-    border-radius: 50%;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    overflow: hidden;
-  }
-  
-  .linkedin {
-    background-color: #0077B5;
-  }
-  
-  .gmail {
-    background-color: #EA4335;
-  }
-  
-  .instagram {
-    background-color: #E1306C;
-  }
-  
-  .twitter {
-    background-color: #1DA1F2;
-  }
-  
-  .badge a {
-    display: block;
-    width: 100%;
-    height: 100%;
-    text-align: center;
-  }
-  
-  .badge img {
-    max-width: 60%;
-    max-height: 60%;
-    object-fit: contain;
-  }
-</style>
 
 <div id="badges" align="center">
   <div class="badge linkedin">
