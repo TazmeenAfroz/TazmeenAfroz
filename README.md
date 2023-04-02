@@ -41,9 +41,11 @@
 <br/> 
 
 ---
+## :fire: My Stats :
+
 <b>Github Streaks 🔥</b>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TazmeenAfroz&theme=black-ice&hide_border=true&stroke=b621fe&background=0D1117&ring=1fd1f9&fire=1fd1f9&currStreakLabel=1fd1f9&bg_color=90,1fd1f9,b621fe&title_color=fff&text_color=fff" alt="TazmeenAfroz" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TazmeenAfroz&theme=black-ice&hide_border=true&stroke=1fd1f9&background=0D1117&ring=1fd1f9&fire=1fd1f9&currStreakLabel=1fd1f9&bg_color=90,1fd1f9,b621fe&title_color=fff&text_color=fff" alt="TazmeenAfroz" /></p>
 
 <b>TAZMEEN's Github Stats</b>
 
@@ -51,11 +53,15 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&bg_color=90,1fd1f9,b621fe&title_color=fff&text_color=fff" />
 </a>
 
-<br>
+
+<a href="https://github.com/TazmeenAfroz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&bg_color=90,1fd1f9,b621fe&title_color=fff&text_color=fff&layout=compact" />
+</a>
+
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TazmeenAfroz&style=flat-square&color=1fd1f9&label=Profile%20views%20counter" alt="Profile Views Counter" />
-  <hr style="width: 100%; margin: 10px 0px; border-top: 1px solid #1fd1f9;" />
 </div>
 
 
