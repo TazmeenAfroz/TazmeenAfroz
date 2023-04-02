@@ -40,6 +40,10 @@
 </div>  
 <br/> 
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TazmeenAfroz&style=flat-square&color=1fd1f9&label=Profile%20views%20counter" alt="Profile Views Counter" />
+</div>
+
 ---
 ## :fire: My Stats :
 
@@ -61,10 +65,6 @@
 <br/> 
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TazmeenAfroz&style=flat-square&color=1fd1f9&label=Profile%20views%20counter" alt="Profile Views Counter" />
-</div>
 
 
 <div id="badges">
