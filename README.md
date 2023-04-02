@@ -57,7 +57,8 @@
 
 <br><b>Github Streaks 🔥</b>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TazmeenAfroz&theme=black-ice&hide_border=true&stroke=1fd1f9&background=90,1fd1f9,b621fe&ring=1fd1f9&fire=1fd1f9&currStreakLabel=1fd1f9&title_color=fff&text_color=fff" alt="TazmeenAfroz" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TazmeenAfroz&theme=black-ice&hide_border=true&stroke=1fd1f9&background=90,1fd1f9,b621fe&ring=000000&fire=1fd1f9&currStreakLabel=000000&title_color=fff&text_color=fff" alt="TazmeenAfroz" /></p>
+
 
 
 
