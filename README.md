@@ -79,7 +79,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a> 
 
-  <hr style="width: 100%; margin: 10px 0px; border-top: 1px solid #1fd1f9;" />
   ![snake gif](https://github.com/TazmeenAfroz/TazmeenAfroz/blob/output/github-contribution-grid-snake.gif)
   
 </div>
