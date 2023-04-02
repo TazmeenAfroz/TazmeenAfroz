@@ -81,22 +81,21 @@
 <br>
 
  ## Contact me on :
-
 <div id="badges" align="center">
-  
-  
   <a href="https://www.linkedin.com/in/tazmeen-afroz/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border-radius: 50%; background-color: #0077B5;"/>
   </a>
-  <a href="mailto:tazmeenafroz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:tazmeenafroz@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" style="border-radius: 50%; background-color: #EA4335;"/>
+  </a>
   <a href="https://www.instagram.com/tazmeen_afroz/">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagran Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" style="border-radius: 50%; background-color: #E1306C;"/>
   </a>
   <a href="https://twitter.com/tazmeen_afroz">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-   </a> 
-
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="border-radius: 50%; background-color: #1DA1F2;"/>
+  </a>
 </div>
+
 
 <div>
   <h2>Watch my github contribution get eaten by a snake 🐍 </h2>
