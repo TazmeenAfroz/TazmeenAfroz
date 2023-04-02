@@ -65,7 +65,7 @@
 <br/> 
 
 
-
+<br>
 
 <div id="badges">
 <h2> Contact me on : </h2> 
