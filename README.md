@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
   <br>
  
 </div>
@@ -82,6 +82,7 @@
 
  ## Contact me on :
 
+  <img src="<iframe src="https://giphy.com/embed/RgavM7PsMNjccqgqfu" width="480" height="476" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/RgavM7PsMNjccqgqfu">via GIPHY</a></p>" width="300"/>
 <div id="badges" align="center">
   <div class="badge linkedin">
     <a href="https://www.linkedin.com/in/tazmeen-afroz/">
