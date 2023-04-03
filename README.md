@@ -81,7 +81,9 @@
 <br>
 
  ## Contact me on :
-   <img src="https://media.giphy.com/media/RgavM7PsMNjccqgqfu/giphy.gif" align = "center" width="100"/>
+ <div align = "center">
+   <img src="https://media.giphy.com/media/RgavM7PsMNjccqgqfu/giphy.gif"  width="100"/>
+  </div>
 
 <div id="badges" align="center">
   <div class="badge linkedin">
