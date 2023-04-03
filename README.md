@@ -81,8 +81,8 @@
 <br>
 
  ## Contact me on :
+   <img src=" https://media.giphy.com/media/RgavM7PsMNjccqgqfu/giphy.gif" width="100"/>
 
-  <iframe src="https://giphy.com/embed/RgavM7PsMNjccqgqfu" width="480" height="476" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/RgavM7PsMNjccqgqfu">via GIPHY</a></p>
 <div id="badges" align="center">
   <div class="badge linkedin">
     <a href="https://www.linkedin.com/in/tazmeen-afroz/">
