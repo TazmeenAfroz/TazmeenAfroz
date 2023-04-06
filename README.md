@@ -23,7 +23,7 @@
 
 - *🌱 I’m currently learning different programming languages and web development.*  
  
-- *📕 In my free time, I solve problems and read tech articles.😛*  
+- *📕 In my free time, I solve problems and read tech articles.*  
   
 
 - *⚡ Fun fact:“I am rarely bored alone; I am often bored in groups and crowds.” ~ Laurie Helgoe*  
