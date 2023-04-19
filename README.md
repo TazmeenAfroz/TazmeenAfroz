@@ -66,7 +66,7 @@
 <b>TAZMEEN's Github Stats</b>
 
 <a href="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&count_private=true&show_icons=true&theme=chartreuse-dark">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&bg_color=90,1fd1f9,b621fe&title_color=fff&text_color=fff" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&bg_color=90,1fd1f9,b621fe&title_color=fff&text_color=fff" style="width: 400px; height: 200px; />
 </a>
 
 
