@@ -26,7 +26,7 @@
 - *📕 In my free time, I solve problems and read tech articles.👩‍💻*  
   
 
-- *⚡“I am rarely bored alone; I am often bored in groups and crowds.”  ~ Laurie Helgoe*  
+- *⚡A quote which describes  me : “I am rarely bored alone; I am often bored in groups and crowds.”  ~ Laurie Helgoe*  
     
  
 ---
