@@ -66,9 +66,6 @@
 
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&count_private=true&show_icons=true&theme=chartreuse-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&show_icons=true&theme=chartreuse-dark" style="width: 430px; height: 200px;" />
-</a>
 
 
 
