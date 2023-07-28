@@ -59,7 +59,11 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TazmeenAfroz&theme=black-ice&hide_border=true&stroke=ffffff&background=90,1fd1f9,b621fe&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&dates=ffffff&title_color=fff&text_color=ffffff" alt="TazmeenAfroz" /></p>
 
 
+<b>My Github Stats</b>
 
+<a href="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&count_private=true&show_icons=true&theme=chartreuse-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&bg_color=90,1fd1f9,b621fe&title_color=fff&text_color=fff" style="width: 430px; height: 200px; />
+</a>
 
 
 
