@@ -113,6 +113,12 @@
 <div>
   <h2>Watch my github contribution get eaten by a snake 🐍</h2>
   
-  ![snake gif](https://github.com/TazmeenAfroz/TazmeenAfroz/blob/output/github-contribution-grid-snake.gif)
+
+  <picture>
+ 
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
   
   </div>
