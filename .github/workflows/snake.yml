@@ -2,7 +2,7 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Set the schedule for daily execution, at midnight UTC
+    - cron: "0 0 * * *" 
 
 jobs:
   generate_snake_game:
