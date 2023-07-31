@@ -110,8 +110,8 @@
 
 
 
-<div>
-  <h2>Watch my github contribution get eaten by a snake 🐍</h2>
+
+
   
 
   <picture>
@@ -121,4 +121,4 @@
 </picture>
 
   
-  </div>
+ 
