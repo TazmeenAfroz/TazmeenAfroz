@@ -111,7 +111,7 @@
 
 
 <div>
-  <h2>Watch my github contribution get eaten by a snake 🐍 </h2>
+  <h2>Watch my github contribution get eaten by a snake 🐍</h2>
   
   ![snake gif](https://github.com/TazmeenAfroz/TazmeenAfroz/blob/output/github-contribution-grid-snake.gif)
   
