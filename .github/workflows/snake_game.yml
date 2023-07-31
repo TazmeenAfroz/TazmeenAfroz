@@ -1,3 +1,6 @@
+
+name: Generate Snake Game
+
 jobs:
   generate_snake_game:
     name: Generate Snake Game Image
