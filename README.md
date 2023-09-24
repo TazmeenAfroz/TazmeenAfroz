@@ -1,6 +1,5 @@
 <div style="background-image: url('https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif'); background-repeat: no-repeat; background-size: auto 100%; background-position: center; height: 300px;">
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" />
+
 
   <br>
  
