@@ -1,6 +1,5 @@
-
 <div id="header" align="center">
-  <img src=["https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"](https://media.istockphoto.com/id/1206796363/photo/ai-machine-learning-hands-of-robot-and-human-touching-on-big-data-network-connection.jpg?s=1024x1024&w=is&k=20&c=lqHbBScxwQa3wcTySqNOYwyJhUIPB1V4m1PtSIK9BdQ=) width="300" />
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" />
   <br>
 </div>
 
