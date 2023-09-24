@@ -1,6 +1,5 @@
 
-[<div id="header" align="center">](url)
-<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" style="width: 500px;" />
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="500" />
 
   <br>
  
