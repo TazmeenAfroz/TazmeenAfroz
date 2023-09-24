@@ -1,13 +1,9 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" />
+  <img src=["https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"](https://media.istockphoto.com/id/1206796363/photo/ai-machine-learning-hands-of-robot-and-human-touching-on-big-data-network-connection.jpg?s=1024x1024&w=is&k=20&c=lqHbBScxwQa3wcTySqNOYwyJhUIPB1V4m1PtSIK9BdQ=) width="300" />
   <br>
 </div>
 
-<!-- Use a relative path to the image within your repository -->
-<div style="background-image: url('assets/112193151/ad1e4159-1a75-4909-93a9-fb1776b6181f'); background-repeat: no-repeat; background-size: auto 100%; background-position: center; height: 300px;">
-  <!-- Your content goes here -->
-</div>
 
 
 ### ABOUT ME :
