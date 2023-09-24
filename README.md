@@ -1,5 +1,7 @@
-<div style="background-image: url('https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif'); background-repeat: no-repeat; background-size: auto 100%; background-position: center; height: 300px;">
-
+<div style="background-image: url('![image](https://github.com/TazmeenAfroz/TazmeenAfroz/assets/112193151/ad1e4159-1a75-4909-93a9-fb1776b6181f)'); background-repeat: no-repeat; background-size: auto 100%; background-position: center; height: 300px;">
+</div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" />
 
   <br>
  
