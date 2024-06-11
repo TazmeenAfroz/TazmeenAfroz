@@ -103,4 +103,8 @@
       <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
     </a>
   </div>
+
 </div>
+
+
+  ![Metrics](https://github.com/TazmeenAfroz/TazmeenAfroz/blob/main/github-metrics.svg)
