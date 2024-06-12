@@ -20,15 +20,11 @@ jobs:
           base: repositories
           config_timezone: Asia/Karachi  # Adjusted timezone to Pakistan Standard Time
           plugin_calendar: yes
-          plugin_calendar_days: 180
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: code
           plugin_languages_ignored: markdown, html
           plugin_languages_skipped: SVG, TeX
-          # Remove plugin_music
-          # plugin_music: yes
-          # plugin_music_token: ${{ secrets.SPOTIFY_CLIENT_ID }} ${{ secrets.SPOTIFY_CLIENT_SECRET }}
 
       - name: Commit and push
         run: |
@@ -37,3 +33,4 @@ jobs:
           git add -A
           git commit -m "Update metrics" || exit 0
           git push
+
