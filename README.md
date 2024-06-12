@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/tumblr_lsx6ufbvyU1qehmh1o1_500.gifv" width="300" height ="100" />
+  <img src="https://64.media.tumblr.com/tumblr_lsx6ufbvyU1qehmh1o1_500.gifv" width="300" height ="300" />
   <br>
 </div>
 
