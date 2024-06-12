@@ -15,7 +15,7 @@
 
 <div align="center">
   <p style="font-family: 'Oswald', sans-serif; font-weight: bold; font-style: italic;">
-    BS Artificial Intelligence student at FAST  NUCES with a strong interest in applying AI for data analysis and interpretation, particularly in image, video, and natural language processing. Passionate about data science, machine learning, and deep learning, with a focus on leveraging these technologies for innovative solutions.
+    BS Artificial Intelligence student at FAST  NUCES with a strong interest in applying AI for data analysis and interpretation. Passionate about data science, machine learning, and deep learning, with a focus on leveraging these technologies for innovative solutions.
   </p>
 </div>
 
