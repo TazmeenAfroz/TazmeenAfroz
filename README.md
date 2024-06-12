@@ -45,14 +45,18 @@
 ## :fire: My Stats :
 
 <br><b>Github Streaks 🔥</b>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TazmeenAfroz&theme=black-ice&hide_border=true&stroke=ffffff&background=90,1fd1f9,b621fe&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&dates=ffffff&title_color=fff&text_color=ffffff" alt="TazmeenAfroz" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TazmeenAfroz&theme=highcontrast&hide_border=true&stroke=ffffff&background=000000&ring=1fd1f9&fire=ffffff&currStreakLabel=ffffff&dates=ffffff&title_color=1fd1f9&text_color=ffffff" alt="TazmeenAfroz" />
+</p>
 
 <b>My Github Stats</b>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&count_private=true&show_icons=true&theme=highcontrast&bg_color=000000&title_color=1fd1f9&text_color=ffffff&icon_color=1fd1f9&hide_border=true" style="width: 400px; height: 200px;" alt="TazmeenAfroz Stats"/>
+</p>
 
 <a href="https://github.com/TazmeenAfroz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&bg_color=90,1fd1f9,b621fe&title_color=fff&text_color=fff&layout=compact" style="width: 400px; height: 200px;" alt="TazmeenAfroz Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&bg_color=000000&title_color=1fd1f9&text_color=ffffff&layout=compact&hide_border=true" style="width: 400px; height: 200px;" alt="TazmeenAfroz Top Languages"/>
 </a>
 
 <br>
