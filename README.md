@@ -3,6 +3,7 @@
   <br>
 </div>
 
+
 ### ABOUT ME :
 
 <head>
@@ -12,15 +13,24 @@
 <div align="center">
   <h2 style="font-family: 'Oswald', sans-serif; font-weight: bold; font-style: italic;">I'm Tazmeen Afroz, a student of BS-AI 🤖 at FAST NUCES</h2>
   <p style="font-family: 'Oswald', sans-serif; font-weight: bold; font-style: italic;">
-    BS Artificial Intelligence student at FAST with a strong interest in applying AI for data analysis and interpretation, particularly in image, video, and natural language processing.
+    BS Artificial Intelligence student at FAST with a strong interest in applying AI for data analysis and interpretation, particularly in image, video, and natural language processing. Passionate about data science, machine learning, and deep learning, with a focus on leveraging these technologies for innovative solutions.
   </p>
 </div>
 
-- 🌱 I’m currently learning different programming languages and web development.
+- 🌱 I’m currently learning various web development, and advanced AI technologies including:
+  - Machine Learning and Deep Learning frameworks 
+  - Data Science tools 
+  - Natural Language Processing (NLP)
+  - Image and Video Processing
+  - Cloud Computing and Databases (SQL, NoSQL)
+  - Full-stack development 
 - 📕 In my free time, I solve problems and read tech articles.👩‍💻
-- ⚡A quote which describes me: “I am rarely bored alone; I am often bored in groups and crowds.” ~ Laurie Helgoe
+- ⚡ A quote that describes me: “I am rarely bored alone; I am often bored in groups and crowds.” ~ Laurie Helgoe
+- 🔍 Exploring the fascinating world of data science, deep learning, and machine learning.
+- 💡 Enthusiastic about using AI to create impactful solutions in various domains, including image and video analysis, and natural language processing.
 
 ---
+
 
 <br/>
 
