@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" />
+  <img src="https://64.media.tumblr.com/tumblr_lsx6ufbvyU1qehmh1o1_500.gifv" width="300" />
   <br>
 </div>
 
@@ -107,4 +107,3 @@
   </div>
 </div>
 
-![Metrics](https://github.com/TazmeenAfroz/TazmeenAfroz/blob/main/github-metrics.svg)
