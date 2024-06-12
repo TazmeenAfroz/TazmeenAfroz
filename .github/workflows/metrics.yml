@@ -16,7 +16,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           user: TazmeenAfroz  # Your GitHub username
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN}}
           base: repositories
           config_timezone: Asia/Karachi  # Adjusted timezone to Pakistan Standard Time
           plugin_calendar: yes
