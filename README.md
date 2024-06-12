@@ -36,12 +36,10 @@
   <a href="https://www.w3.org/TR/CSS/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS" height="50" /></a>
   <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/visualstudio_code-plain.svg" alt="VS Code" height="50" /></a>
+
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="GitHub" height="50" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" alt="Pandas" height="50" /></a>
-  <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/numpy-original.svg" alt="Numpy" height="50" /></a>
-  <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/matplotlib.svg" alt="Matplotlib" height="50" /></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/seaborn.svg" alt="Seaborn" height="50" /></a>
+
+
 </div>
 <br/>
 
