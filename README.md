@@ -3,20 +3,19 @@
   <br>
 </div>
 
-
-## ABOUT ME :
-
 <head>
   <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
 </head>
 
 <div align="center">
-  <h2 style="font-family: 'Oswald', sans-serif; font-weight: bold; font-style: italic;">I'm Tazmeen Afroz, a student of BS-AI 🤖 at FAST NUCES</h2>
+  <h2 style="font-family: 'Oswald', sans-serif; font-weight: bold; font-style: italic;">I'm Tazmeen Afroz</h2>
   <p style="font-family: 'Oswald', sans-serif; font-weight: bold; font-style: italic;">
-    BS Artificial Intelligence student at FAST with a strong interest in applying AI for data analysis and interpretation, particularly in image, video, and natural language processing. Passionate about data science, machine learning, and deep learning, with a focus on leveraging these technologies for innovative solutions.
+    BS Artificial Intelligence student at FAST  NUCES with a strong interest in applying AI for data analysis and interpretation, particularly in image, video, and natural language processing. Passionate about data science, machine learning, and deep learning, with a focus on leveraging these technologies for innovative solutions.
   </p>
 </div>
 
+
+#### ABOUT ME :
 - 🌱 I’m currently learning various web development, and advanced AI technologies including:
   - Machine Learning and Deep Learning frameworks 
   - Data Science tools 
@@ -107,6 +106,6 @@
   </div>
 </div>
 <div id="footer" align="center">
-  <img src="https://media.giphy.com/media/F99PZtJC8Hxm0/giphy.gif?cid=ecf05e47ja9bw6b7s1nvxme1afcy9xsezzxac0grj7mjpj93&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"  />
+  <img src="https://media.giphy.com/media/F99PZtJC8Hxm0/giphy.gif?cid=ecf05e47ja9bw6b7s1nvxme1afcy9xsezzxac0grj7mjpj93&ep=v1_gifs_search&rid=giphy.gif" width="300"  />
   <br>
 </div>
