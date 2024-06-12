@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://64.media.tumblr.com/tumblr_lsx6ufbvyU1qehmh1o1_500.gifv" width="300"  />
+<div id="header" >
+  <img src="https://64.media.tumblr.com/tumblr_lsx6ufbvyU1qehmh1o1_500.gifv" width="400"  />
   <br>
 </div>
 
@@ -8,7 +8,6 @@
 </head>
 
 <div align="center">
-  <h2 style="font-family: 'Oswald', sans-serif; font-weight: bold; font-style: italic;">I'm Tazmeen Afroz</h2>
   <p style="font-family: 'Oswald', sans-serif; font-weight: bold; font-style: italic;">
     BS Artificial Intelligence student at FAST  NUCES with a strong interest in applying AI for data analysis and interpretation, particularly in image, video, and natural language processing. Passionate about data science, machine learning, and deep learning, with a focus on leveraging these technologies for innovative solutions.
   </p>
