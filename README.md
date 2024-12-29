@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/TazmeenAfroz/TazmeenAfroz/blob/main/.github/workflows/ml.png" alt="Header Image" style="width: 100%; height: 100;" />
+  <img src="https://github.com/TazmeenAfroz/TazmeenAfroz/blob/main/.github/workflows/h.jpeg" alt="Header Image" style="width: 100%; height: auto;" />
   <br>
 </div>
 <br>
@@ -54,7 +54,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TazmeenAfroz&style=flat-square&color=FA2A55&label=Profile%20views%20counter" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=TazmeenAfroz&style=flat-square&color=00008B&label=Profile%20views%20counter" alt="Profile Views Counter" />
 </div>
 
 ---
@@ -63,17 +63,17 @@
 
 <br><b>Github Streaks 🔥</b>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TazmeenAfroz&theme=highcontrast&hide_border=true&stroke=ffffff&background=000000&ring=FA2A55&fire=ffffff&currStreakLabel=ffffff&dates=ffffff&title_color=FA2A55&text_color=ffffff" alt="TazmeenAfroz" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TazmeenAfroz&theme=highcontrast&hide_border=true&stroke=ffffff&background=000000&ring=00008B&fire=ffffff&currStreakLabel=ffffff&dates=ffffff&title_color=00008B&text_color=ffffff" alt="TazmeenAfroz" />
 </p>
 
 <b>My Github Stats</b>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&count_private=true&show_icons=true&theme=highcontrast&bg_color=000000&title_color=FA2A55&text_color=ffffff&icon_color=FA2A55&hide_border=true" alt="TazmeenAfroz Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&count_private=true&show_icons=true&theme=highcontrast&bg_color=000000&title_color=00008B&text_color=ffffff&icon_color=00008B&hide_border=true" alt="TazmeenAfroz Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&bg_color=000000&title_color=FA2A55&text_color=ffffff&layout=compact&hide_border=true" alt="TazmeenAfroz Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&bg_color=000000&title_color=00008B&text_color=ffffff&layout=compact&hide_border=true" alt="TazmeenAfroz Top Languages"/>
 </p>
 
 ---
