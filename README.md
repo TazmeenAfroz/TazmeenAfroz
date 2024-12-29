@@ -15,7 +15,7 @@
 
 <div align="center">
   <p style="font-family: 'Oswald', sans-serif; font-weight: bold; font-style: italic;">
-    BS Artificial Intelligence student at FAST  NUCES with a strong interest in applying AI for data analysis and interpretation. Passionate about data science, machine learning, and deep learning, with a focus on leveraging these technologies for innovative solutions.
+    BS Artificial Intelligence student at FAST NUCES with a strong interest in applying AI for real world problems. 
   </p>
 </div>
 
@@ -27,11 +27,7 @@
   - Natural Language Processing (NLP)
   - Image and Video Processing
   - Cloud Computing and Databases (SQL, NoSQL)
-  - Full-stack development 
-- 📕 In my free time, I solve problems and read tech articles.👩‍💻
-- ⚡ A quote that describes me: “I am rarely bored alone; I am often bored in groups and crowds.” ~ Laurie Helgoe
-- 🔍 Exploring the fascinating world of data science, deep learning, and machine learning.
-- 💡 Enthusiastic about using AI to create impactful solutions in various domains, including image and video analysis, and natural language processing.
+  - Full-stack development.
 
 ---
 
