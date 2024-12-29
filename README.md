@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/tumblr_lsx6ufbvyU1qehmh1o1_500.gifv" alt="Header Image" style="width: 100%; height: auto;" />
+  <img src="https://github.com/TazmeenAfroz/TazmeenAfroz/blob/main/.github/workflows/ml.png" alt="Header Image" style="width: 100%; height: auto;" />
   <br>
 </div>
 <br>
