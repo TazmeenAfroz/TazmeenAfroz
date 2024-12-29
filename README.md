@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/TazmeenAfroz/TazmeenAfroz/blob/main/.github/workflows/ml.png" alt="Header Image" style="width: 100%; height: 200;" />
+  <img src="https://github.com/TazmeenAfroz/TazmeenAfroz/blob/main/.github/workflows/ml.png" alt="Header Image" style="width: 100%; height: 100;" />
   <br>
 </div>
 <br>
@@ -106,7 +106,4 @@
     </a>
   </div>
 </div>
-<div id="footer" align="center">
-  <img src="https://media.giphy.com/media/F99PZtJC8Hxm0/giphy.gif?cid=ecf05e47ja9bw6b7s1nvxme1afcy9xsezzxac0grj7mjpj93&ep=v1_gifs_search&rid=giphy.gif" width="200"  />
-  <br>
-</div>
+
