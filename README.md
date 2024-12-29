@@ -1,5 +1,5 @@
 <div id="header" align="center" >
-  <img src="https://64.media.tumblr.com/tumblr_lsx6ufbvyU1qehmh1o1_500.gifv" width="400"  />
+  <img src="https://github.com/TazmeenAfroz/TazmeenAfroz/blob/main/.github/workflows/ml.png" width="500"  />
   <br>
 </div>
 <br>
