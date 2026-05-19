@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/TazmeenAfroz/TazmeenAfroz/blob/main/.github/workflows/h.jpeg" alt="Header Image" style="width: 100%; height: auto;" />
+  <img src="https://github.com/TazmeenAfroz/TazmeenAfroz/blob/main/.github/workflows/header.png" alt="Header Image" style="width: 100%; height: auto;" />
   <br>
 </div>
 <br>
@@ -15,20 +15,13 @@
 
 <div align="center">
   <p style="font-family: 'Oswald', sans-serif; font-weight: bold; font-style: italic;">
-    BS Artificial Intelligence student at FAST NUCES with a strong interest in applying AI for real world problems. 
+    AI Engineer passionate about building intelligent, practical, and user-focused AI solutions for real-world problems.
   </p>
 </div>
 
 ---
 #### ABOUT ME :
-- 🌱 I’m currently learning various web development, and advanced AI technologies including:
-  - Machine Learning and Deep Learning frameworks 
-  - Data Science tools 
-  - Natural Language Processing (NLP)
-  - Image and Video Processing
-  - Cloud Computing and Databases (SQL, NoSQL)
-  - Full-stack development.
-
+I am an aspiring AI Engineer with a strong interest in Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, and full-stack AI application development. I enjoy building intelligent systems that solve real-world problems and continuously improving my skills in modern AI tools, cloud technologies, databases, and deployment workflows.
 ---
 
 
