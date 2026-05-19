@@ -21,7 +21,9 @@
 
 ---
 #### ABOUT ME :
+ <p style="font-family: 'Oswald', sans-serif; font-weight: bold; font-style: italic;">
 I am an aspiring AI Engineer with a strong interest in Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, and full-stack AI application development. I enjoy building intelligent systems that solve real-world problems and continuously improving my skills in modern AI tools, cloud technologies, databases, and deployment workflows.
+ </p>
 ---
 
 
