@@ -4,9 +4,6 @@
 </div>
 <br>
 <div align ="center"><h1>Tazmeen Afroz </h1></div>
-
-
-
 <div></div>
 
 <head>
@@ -23,16 +20,10 @@
  <p style="font-family: 'Oswald', sans-serif; font-weight: bold; font-style: italic;">
 AI Engineer who loves to build things.
  </p>
----
 
 
 <br/>
 
-
-
-
-
----
 
 ## Contact me on :
 
@@ -52,6 +43,5 @@ AI Engineer who loves to build things.
     </a>
   </div>
 
->
 </div>
 
