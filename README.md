@@ -19,7 +19,6 @@
   </p>
 </div>
 
----
 #### ABOUT ME :
  <p style="font-family: 'Oswald', sans-serif; font-weight: bold; font-style: italic;">
 AI Engineer who loves to build things.
